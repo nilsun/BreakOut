@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Classes/HelloWorldScene.cpp"
+            timestampString = "416125944.611077"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "randomVelocity()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld::update(float)"
+                  moduleName = "CrazyBall"
+                  urlString = "file://localhost/Users/sunlin/Desktop/cocos2d-x-2.2.2/projects/CrazyBall/Classes/HelloWorldScene.cpp"
+                  timestampString = "416125111.647302"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "277">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld::showGameOver()"
+                  moduleName = "CrazyBall"
+                  urlString = "file://localhost/Users/sunlin/Desktop/cocos2d-x-2.2.2/projects/CrazyBall/Classes/HelloWorldScene.cpp"
+                  timestampString = "416125111.647633"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld::addSpriteToPhysicSystem(cocos2d::CCSprite*, cocos2d::CCPoint, SpriteType)"
+                  moduleName = "CrazyBall"
+                  urlString = "file://localhost/Users/sunlin/Desktop/cocos2d-x-2.2.2/projects/CrazyBall/Classes/HelloWorldScene.cpp"
+                  timestampString = "416125111.647852"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "353">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld::randomVelocity()"
+                  moduleName = "CrazyBall"
+                  urlString = "file://localhost/Users/sunlin/Desktop/cocos2d-x-2.2.2/projects/CrazyBall/Classes/HelloWorldScene.cpp"
+                  timestampString = "416125111.648042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
