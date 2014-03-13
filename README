@@ -1,2 +1,4 @@
-I spend one day on this simple demo and it currently runs well on 4-inch iPhone simulator/device.
-So choose the iOS project and run it on a 4-inch iPhone simulator.
+I spend one day on this simple demo and it currently runs well on 4-inch iPhone simulator/device. 
+
+So put this project in the projects directory of Cocos2d-x and choose the iOS project and run it on a 4-inch iPhone simulator. And then you can just enjoy the game.
+
